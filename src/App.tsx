@@ -3,7 +3,7 @@ import { Button } from './Button';
 export const App = () => {
   return (
     <>
-      <h1>Main</h1>
+      <h1>Main1</h1>
       <Button color="gray" size="xs">
         Gray Button
       </Button>
